@@ -1,0 +1,7 @@
+data/
+.env
+.git
+.gitignore
+*.md
+node_modules/
+.next/
